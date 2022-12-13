@@ -99,4 +99,4 @@ Next, run LearningModels.mlx to train and display the results of the four machin
 
 ## Documentation and Results
 ---
-Please see ____<!-- [FinalProjectReport](https://) --> <!-- Add a link for the final report Google Doc in the previous comment --> for in-depth explanation of results. For any additional help, [Contact us](mailto:ramachandranv@ufl.edu).
+For any additional help, [Contact us](mailto:ramachandranv@ufl.edu).
