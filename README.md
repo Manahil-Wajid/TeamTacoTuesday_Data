@@ -101,4 +101,6 @@ Next, run LearningModels.mlx to train and display the results of the four machin
 ---
 Training and Testing Images are added in the foler Training and Testingg respectively. MAT Files are added in the folders MAT Files and MAT Files 2 due to git uploading.
 
+For results and documenation please view our [Final Report](https://docs.google.com/document/d/1KkzvwMp_N-m2plzRgq-lR_viICQ2bQ6G/edit?usp=sharing&ouid=112580464932152738585&rtpof=true&sd=true)
+
 For any additional help, [Contact us](mailto:ramachandranv@ufl.edu).
