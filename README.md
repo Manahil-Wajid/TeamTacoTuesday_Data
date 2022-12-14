@@ -19,13 +19,13 @@ The tumor characteristics are analyzed via machine learning models and classafie
 
 ## Setup
 ---
-Our Dataset consists of 120 images and .dat files seperated into the Training and Testing Groups.
+Our Dataset consists of 120 images and .mat files seperated into the Training and Testing Groups.
 Due to how our code is written, there is a sepcifc way the folder needs to be setup in order for the code to run.
 This section will cover how to setup the files and functions in order to run the code.
 
 There are five main functions for the project: 
 * BrainRed.mlx
-  * The function BrainRed.mlx is an optional function to run to extract the MRI scan images form the .dat file and save them
+  * The function BrainRed.mlx is an optional function to run to extract the MRI scan images form the .mat file and save them
     as individual images. Since we have provided both the original .dat files and image files, it is not necessary to run this program.
     If you do choose to run the file, pleasae place all the .mat files provided in the same folder as the function and run the program.
     ```MATLAB
